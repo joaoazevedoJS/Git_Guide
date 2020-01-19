@@ -7,7 +7,7 @@ Guia prático para iniciantes.
 https://git-scm.com/download
 
 # Scenes
-g
+
 - [x] Você deseja criar pontos na história da produção do seu projeto
 - [x] Você deseja verificar mudanças feitas no seu projeto
 
