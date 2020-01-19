@@ -17,6 +17,9 @@ https://git-scm.com/download
 
 - [x] Você quer colocar seu projeto na nuvem.
 
+- [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
+- [] Você precisa resolver um conflito
+
 * `git init` // inicia a linha do tempo;
 * `git add` // adiciona ou atualiza mudanças para item para a linha do tempo;
 * `git commit` // adiciona um ponto na linha do tempo;
@@ -24,6 +27,7 @@ https://git-scm.com/download
 * `git status` // informa o estado das alterações do nosso projeto;
 * `git show` // apresenta determinado ponto na historia;
 * `git branch` // gerenciar novas linhas do tempo;
+* `git branch -D` // deletar uma linha do tempo;
 * `git checkout` // manipula as linhas do tempo;
 * `git merge` // unir linhas do tempo;
 * `git push` // envia alterações locais para o repositório remoto;
