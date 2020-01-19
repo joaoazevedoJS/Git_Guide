@@ -19,7 +19,9 @@ https://git-scm.com/download
 
 - [x] Você vai pegar um projeto já iniciado, para trabalhar com o time.
 - [x] Você precisa resolver um conflito.
-- [ ] Antes de enviar a resolução, precisamos atualizar o projeto local.
+- [x] Antes de enviar a resolução, precisamos atualizar o projeto local.
+
+- [ ] Você precisa voltar um arquivo para um determinado momento da linha do tempo
 
 * `git init` // inicia a linha do tempo;
 * `git add` // adiciona ou atualiza mudanças para item para a linha do tempo;
@@ -32,3 +34,4 @@ https://git-scm.com/download
 * `git checkout` // manipula as linhas do tempo;
 * `git merge` // unir linhas do tempo;
 * `git push` // envia alterações locais para o repositório remoto;
+* `git pull` // puxa atualizações da nuvem;
