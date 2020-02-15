@@ -37,4 +37,5 @@ https://git-scm.com/download
 * `git push` // envia alterações locais para o repositório remoto;
 * `git clone` // clonar um repositório / projeto;
 * `git pull` // puxar atualizações do repositório remoto;
+* `git pull origin master --allow-unrelated-histories` // Puxar atualizações sem relacionar historia;
 * `git checkout codigo-da-linha-tempo -- nome-do-arquivo` // restaurar um arquivo salvo da linha do tempo
