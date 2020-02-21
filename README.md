@@ -35,6 +35,7 @@ https://git-scm.com/download
 * `git checkout` // manipula as linhas do tempo;
 * `git merge` // unir linhas do tempo;
 * `git push` // envia alterações locais para o repositório remoto;
+* `git push --force` // caso deletou um commit e quer enviar para repositorio online
 * `git clone` // clonar um repositório / projeto;
 * `git pull` // puxar atualizações do repositório remoto;
 * `git pull origin master --allow-unrelated-histories` // Puxar atualizações sem relacionar historia;
