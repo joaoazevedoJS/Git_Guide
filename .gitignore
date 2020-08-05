@@ -1,0 +1,10 @@
+# Pastas
+
+# É uma boa pratica iginorar pasta de node_modules
+
+node_modules/
+
+# Arquivos
+
+secret.txt
+*.tsx
